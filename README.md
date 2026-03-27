@@ -7,10 +7,6 @@ In modern high-intensity electronic warfare and GNSS-denied environments, tradit
 
 Index Terms: GNSS-Denied Navigation, Geophysical Field Matching, Spatial Aliasing, Non-Convex Optimization, Sensor Fusion.
 
-第二步：极客破圈 —— GitHub 开源项目 README.md
-把我们上一版跑通的 6D 张量 Python 代码命名为 main.py，然后在这个代码库的根目录创建 README.md，贴上以下内容。这会让每一个路过你仓库的算法工程师和 AI 开发者感到惊艳。
-
-Markdown
 # 🌍 6D-Tensor Geophysical Navigation (6D-TGN)
 ![Collapse Plot](./collapse_plot.jpg)
 
