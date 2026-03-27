@@ -12,7 +12,9 @@ Index Terms: GNSS-Denied Navigation, Geophysical Field Matching, Spatial Aliasin
 
 Markdown
 # 🌍 6D-Tensor Geophysical Navigation (6D-TGN)
+![Collapse Plot](./collapse_plot.jpg)
 
+**A Next-Generation, Zero-Drift Autonomous Navigation Algorithm Framework for GNSS-Denied Environments.**
 ![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen.svg)
@@ -36,6 +38,7 @@ Coupled with a **Three-Stage Coarse-to-Fine Kill Chain** (SINS Drift -> Grid Sca
 *When running the simulation, you will observe the absolute error plummeting logarithmically as the algorithm bypasses spatial decoherence.*
 
 *(Insert your generated Matplotlib Log-Scale Collapse Plot here)*
+
 
 ## 🛠️ Quick Start
 
