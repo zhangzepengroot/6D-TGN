@@ -8,7 +8,7 @@ In modern high-intensity electronic warfare and GNSS-denied environments, tradit
 Index Terms: GNSS-Denied Navigation, Geophysical Field Matching, Spatial Aliasing, Non-Convex Optimization, Sensor Fusion.
 
 # 🌍 6D-Tensor Geophysical Navigation (6D-TGN)
-![Collapse Plot](./collapse_plot.jpg)
+![Collapse Plot](./collapse_plot.png)
 
 **A Next-Generation, Zero-Drift Autonomous Navigation Algorithm Framework for GNSS-Denied Environments.**
 ![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
